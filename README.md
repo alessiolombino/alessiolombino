@@ -7,7 +7,6 @@ I'm currently studying a Level 3 Cybersecurity course and building my practical 
 
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
 Areas I'm interested in:
 • Cyber Analysis
 • Education and awareness
@@ -15,7 +14,6 @@ Areas I'm interested in:
 
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 Skills I'm learning:
 • Networking and TCP/IP
 • Linux
