@@ -1,26 +1,35 @@
 # Hello, I'm Alessio
 <a href="https://www.linkedin.com/in/alessio-lombino-35a381105/?isSelfProfile=true"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-[Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+
+I'm currently studying a Level 3 Cybersecurity course and building my practical skills.<img width="468" height="39" alt="image" src="https://github.com/user-attachments/assets/c337b45b-00f0-4653-a3ec-20db53b4a222" />
+
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
+Areas I'm interested in:
+• Cyber Analysis
+• Education and awareness
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+Skills I'm learning:
+• Networking and TCP/IP
+• Linux
+• Wireshark
+• Cybersecurity risk and incident response
+<img width="468" height="84" alt="image" src="https://github.com/user-attachments/assets/057e8213-58ff-41e0-8845-d0ccae16254e" />
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+
+
+Current goal:
+I'm building a portfolio of beginner cybersecurity projects to prepare for an entry-level cyber role.
+<img width="468" height="39" alt="image" src="https://github.com/user-attachments/assets/9ba8181c-8c27-43ff-890d-36266ebae5b2" />
+
+
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
